@@ -7,3 +7,4 @@ Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com
 
 Project Developers:
 Odin Liam Wright, Sr. Developer
+Sally Jones, Jr. Developer
